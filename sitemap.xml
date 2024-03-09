@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://emoncms-docker.github.io/index.html</loc>
+    <lastmod>2024-02-19</lastmod>
+  </url>
+  <url>
+    <loc>https://emoncms-docker.github.io/setup/ha.html</loc>
+    <lastmod>2024-02-19</lastmod>
+  </url>
+  <url>
+    <loc>https://emoncms-docker.github.io/setup/index.html</loc>
+    <lastmod>2024-02-19</lastmod>
+  </url>
+  <url>
+    <loc>https://emoncms-docker.github.io/setup/post.html</loc>
+    <lastmod>2024-02-19</lastmod>
+  </url>
+  <url>
+    <loc>https://emoncms-docker.github.io/setup/test.html</loc>
+    <lastmod>2024-02-19</lastmod>
+  </url>
+</urlset>
